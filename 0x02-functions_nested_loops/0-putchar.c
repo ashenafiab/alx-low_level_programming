@@ -1,22 +1,22 @@
 #include "main.h"
 
 /**
- * main - print Ashenafi, followed by new line
+ * main - program that prints Anything.
  *
- * Return: 0
+ * Return: int
  */
 
 int main(void)
 {
-	_putchar('A');
-	_putchar('s');
-	_putchar('h');
-	_putchar('e');
-	_putchar('n');
-	_putchar('a');
-	_putchar('f');
-	_putchar('i');
-	_putchar('\n');
+	int n = 0;
+	char str_name[9] = "Anything";
 
+	while (n < 9)
+	{
+		_putchar(str_name[n]);
+		n += 1;
+	}
+	_putchar('\n');
 	return (0);
 }
+
