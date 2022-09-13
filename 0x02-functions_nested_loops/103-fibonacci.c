@@ -1,7 +1,8 @@
 #include <stdio.h>
 
-/*
- * Description: main - print sum of even Fionacci sequence up to 4,000,000
+/**
+ * main - print sum of even Fionacci sequence up to 4,000,000
+ *
  * Return: 0
  */
 
