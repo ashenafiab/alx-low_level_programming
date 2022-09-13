@@ -1,22 +1,21 @@
 #include "main.h"
 
 /**
- * main - print Holberton, followed by new line
+ * main - print Ashenafi, followed by new line
  *
  * Return: 0
  */
 
 int main(void)
 {
-	_putchar('H');
-	_putchar('o');
-	_putchar('l');
-	_putchar('b');
+	_putchar('A');
+	_putchar('s');
+	_putchar('h');
 	_putchar('e');
-	_putchar('r');
-	_putchar('t');
-	_putchar('o');
 	_putchar('n');
+	_putchar('a');
+	_putchar('f');
+	_putchar('i');
 	_putchar('\n');
 
 	return (0);
