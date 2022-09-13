@@ -1,25 +1,23 @@
 #include "main.h"
 
 /**
- * main - program that prints Ashenafi.
+ * main - print Holberton, followed by new line
  *
- * Return: int
+ * Return: 0
  */
 
 int main(void)
 {
-	int n = 0;
-
-	char str_name[8] = "Ashenafi";
-
-	while (n < 8)
-	{
-		_putchar(str_name[n]);
-		n += 1;
-	}
-
+	_putchar('H');
+	_putchar('o');
+	_putchar('l');
+	_putchar('b');
+	_putchar('e');
+	_putchar('r');
+	_putchar('t');
+	_putchar('o');
+	_putchar('n');
 	_putchar('\n');
 
 	return (0);
 }
-
