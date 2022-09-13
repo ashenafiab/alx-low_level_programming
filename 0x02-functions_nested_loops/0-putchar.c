@@ -1,4 +1,4 @@
-#include "Ashenafi.h"
+#include "main.h"
 
 /**
  * main - program that prints Ashenafi.
