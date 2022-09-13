@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * main - program that prints Anything.
+ * main - program that prints putchar.
  *
  * Return: int
  */
@@ -9,7 +9,7 @@
 int main(void)
 {
 	int n = 0;
-	char str_name[9] = "Anything";
+	char str_name[9] = "putchar";
 
 	while (n < 9)
 	{
