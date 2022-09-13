@@ -1,7 +1,7 @@
 #include "Ashenafi.h"
 
-/*
- * Description: main - program that prints Ashenafi.
+/**
+ * main - program that prints Ashenafi.
  *
  * Return: int
  */
@@ -22,3 +22,4 @@ int main(void)
 
 	return (0);
 }
+
