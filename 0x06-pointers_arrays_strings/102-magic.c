@@ -1,5 +1,13 @@
+
 #include <stdio.h>
 
+/**
+  *magic - so that the program prints a[2] = 98
+  *@n
+  *@s,p
+  *
+  * Return : 0
+  */
 int main(void)
 {
   int n;
